@@ -1,8 +1,6 @@
 # Decentralised-petshop
 (Mainly done for blockbash hackathon)
 
-# Decentralised Petshop
-
 ## Description
 Decentralised Petshop is a blockchain-based pet adoption platform built on the Ethereum blockchain using smart contracts. The project allows users to adopt pets and manage pet ownership in a decentralized, secure, and transparent way. The use of blockchain ensures that ownership records are tamper-proof and that transactions are secure.
 
