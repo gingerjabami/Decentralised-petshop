@@ -4,7 +4,7 @@
 ## Description
 Decentralised Petshop is a blockchain-based pet adoption platform built on the Ethereum blockchain using smart contracts. The project allows users to adopt pets and manage pet ownership in a decentralized, secure, and transparent way. The use of blockchain ensures that ownership records are tamper-proof and that transactions are secure.
 
-The petshop leverages Solidity for smart contract development and integrates web technologies like HTML, CSS, JavaScript, and Web3.js for the front-end interface, making the platform user-friendly and accessible for anyone with an Ethereum wallet.
+The petshop leverages Ethereum for smart contract development and integrates web technologies like HTML, CSS, JavaScript, and Web3.js for the front-end interface, making the platform user-friendly and accessible for anyone with an Ethereum wallet.
 
 ## Table of Contents
 - [Features](#features)
